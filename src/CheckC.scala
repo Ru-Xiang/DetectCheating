@@ -9,7 +9,7 @@ import scala.collection.mutable
  * Created by Aplysia_x on 2016/1/19.
  */
 object CheckC {
-  val sourceBase="E:\\Coursefile\\DataStructure\\final"
+//  val sourceBase="E:\\Coursefile\\DataStructure\\final"
   //  val destDic="E:\\Coursefile\\DataStructure\\med"
   def main(args: Array[String]) {
 
